@@ -258,6 +258,7 @@ Design
 ### Marketing and PR
 
 * :free: [Glitch](https://www.glitch.fun/) - Marketing Automation For Video Games 
+* :free: [SteamScout Indie Dev Workbench](https://steamscout.sleepingmass.com/dev) - 30 free, no-login browser tools for Steam indie devs: 14-region pricing matrix, 30-day discount cooldown planner, Press Kit & Pitch Deck generators, local capsule resizer/previewer, BBCode editor, and outreach templates.
 * :free: [Yunoia](https://www.yunoia.com/) - Online Publishers/Marketing 
 
 
